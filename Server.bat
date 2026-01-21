@@ -1,0 +1,1 @@
+start /min cmd /c "cd /d "..\Project\Pharmacy-Project" && node backend\server.js"
